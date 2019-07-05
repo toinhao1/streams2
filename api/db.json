@@ -1,3 +1,25 @@
 {
-  "streams": []
+  "streams": [
+    {
+      "title": "fddf",
+      "description": "dfffd",
+      "id": 1
+    },
+    {
+      "title": "fddf",
+      "description": "dfffd",
+      "id": 2
+    },
+    {
+      "title": "Cool ",
+      "description": "collest stream!",
+      "id": 3
+    },
+    {
+      "title": "Cool Stream",
+      "description": "weird stuff goign on. ",
+      "userId": "118097445994382910265",
+      "id": 4
+    }
+  ]
 }
